@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mqs:home|Door43 (mqs)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mqs|d43-mqs repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mqs/archive/master.zip|d43-mqs.zip]]
+
+**Recent Changes**
+{{changes>ns = mqs}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mqs|Ethnologue data]]
+
